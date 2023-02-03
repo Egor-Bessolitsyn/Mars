@@ -1,0 +1,5 @@
+print("Content-type: text/html; charset=utf-8")
+print()
+print("<h1>Hello, Yandex!</h1>")
+print("<p>How are you?</p>")
+print("<h1>I'm fine!</h1>")
