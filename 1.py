@@ -20,7 +20,7 @@ def image_mars():
                   <head>
                     <meta charset="utf-8">
                     <link rel="stylesheet" type="text/css" href="{url_for('static', filename='css/style.css')}" />
-                    <title>Привет, Яндекс!</title>
+                    <title>Привет, Марс!</title>
                   </head>
                   <body>
                     <h1>Жди нас, Марс!</h1>
